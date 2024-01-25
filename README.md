@@ -1,4 +1,4 @@
-# Sorting Algorithms
+# Searching Algorithms
 Examples of searching algorithms for A-Level OCR Computer Science, written in Python 🐍.
 
 ## Introduction
@@ -14,4 +14,5 @@ You're very welcome to clone and modify the code, and feel free to let me know i
 - Binary Search (WIP)
 
 # To-Do
-- ~~Write stuff in the To-Do~~
+- Write a `run-all.py` to compare algorithms
+- Write documentation
