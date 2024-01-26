@@ -16,3 +16,4 @@ You're very welcome to clone and modify the code, and feel free to let me know i
 # To-Do
 - Write a `run-all.py` to compare algorithms
 - Write documentation
+- Add comments
