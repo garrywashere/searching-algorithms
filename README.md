@@ -10,8 +10,8 @@ Pull the repository or view the code on GitHub, then navigate the folders of eac
 You're very welcome to clone and modify the code, and feel free to let me know if you have any improvements :)
 
 ## Algorithms Included
-- Linear Search (WIP)
-- Binary Search (WIP)
+- Linear Search ✅
+- Binary Search ✅
 
 # To-Do
 - ~~Write a `run-all.py` to compare algorithms~~
