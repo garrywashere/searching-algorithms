@@ -14,6 +14,6 @@ You're very welcome to clone and modify the code, and feel free to let me know i
 - Binary Search (WIP)
 
 # To-Do
-- Write a `run-all.py` to compare algorithms
+- ~~Write a `run-all.py` to compare algorithms~~
 - Write documentation
-- Add comments
+- ~~Add comments~~
